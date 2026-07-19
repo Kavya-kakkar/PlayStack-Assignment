@@ -18,13 +18,13 @@
 ## 📸 Screenshots
 
 ### Dashboard — Stats & Department Overview
-![Dashboard](ems/docs/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Kavya-kakkar/PlayStack-Assignment/master/docs/screenshots/dashboard.png)
 
 ### Employees — Paginated List with Search & Filters
-![Employees](ems/docs/screenshots/employees.png)
+![Employees](https://raw.githubusercontent.com/Kavya-kakkar/PlayStack-Assignment/master/docs/screenshots/employees.png)
 
 ### Organization Chart — Collapsible Hierarchy Tree
-![Org Chart](ems/docs/screenshots/org-chart.png)
+![Org Chart](https://raw.githubusercontent.com/Kavya-kakkar/PlayStack-Assignment/master/docs/screenshots/org-chart.png)
 
 ---
 
